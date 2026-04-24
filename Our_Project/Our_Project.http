@@ -1,0 +1,24 @@
+@HostAddress = https://localhost:7044
+
+### 1. Перевірка генерації хешу (Без збереження в БД)
+POST {{HostAddress}}/api/block/hash
+Content-Type: application/json
+
+"Тестовий документ"
+
+### 2. Додавання першого блоку в ланцюг
+POST {{HostAddress}}/api/block/block
+Content-Type: application/json
+X-API-KEY: MySuperSecretKey123
+
+"Це дані мого першого блоку"
+
+### 3. Додавання другого блоку
+POST {{HostAddress}}/api/block/block
+Content-Type: application/json
+X-API-KEY: MySuperSecretKey123
+
+"А це вже другий документ для ланцюга"
+
+### 4. Перевірка надійності: Валідація всього блокчейну
+GET {{HostAddress}}/api/block/validate
