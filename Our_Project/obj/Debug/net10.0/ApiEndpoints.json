@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Our_Project.Controllers.BlockController",
+    "Method": "AddBlock",
+    "RelativePath": "api/Block/block",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Our_Project.Controllers.BlockController",
+    "Method": "GenerateHash",
+    "RelativePath": "api/Block/hash",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Our_Project.Controllers.BlockController",
+    "Method": "Validate",
+    "RelativePath": "api/Block/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
