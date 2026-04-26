@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual\\Our_Project\\Our_Project\\Our_Project.csproj": {}
+    "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.csproj": {}
   },
   "projects": {
-    "D:\\visual\\Our_Project\\BLL\\BLL.csproj": {
+    "D:\\visual\\acad\\MyRepository\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual\\Our_Project\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\visual\\acad\\MyRepository\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\visual\\Our_Project\\BLL\\BLL.csproj",
+        "projectPath": "D:\\visual\\acad\\MyRepository\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Sharlatan\\.nuget\\packages\\",
-        "outputPath": "D:\\visual\\Our_Project\\BLL\\obj\\",
+        "outputPath": "D:\\visual\\acad\\MyRepository\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\visual\\Our_Project\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\visual\\Our_Project\\DAL\\DAL.csproj"
+              "D:\\visual\\acad\\MyRepository\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\visual\\acad\\MyRepository\\DAL\\DAL.csproj"
               },
-              "D:\\visual\\Our_Project\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\visual\\Our_Project\\Domain\\Domain.csproj"
+              "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj"
               }
             }
           }
@@ -59,6 +59,10 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -370,14 +374,14 @@
         }
       }
     },
-    "D:\\visual\\Our_Project\\DAL\\DAL.csproj": {
+    "D:\\visual\\acad\\MyRepository\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual\\Our_Project\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\visual\\acad\\MyRepository\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\visual\\Our_Project\\DAL\\DAL.csproj",
+        "projectPath": "D:\\visual\\acad\\MyRepository\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Sharlatan\\.nuget\\packages\\",
-        "outputPath": "D:\\visual\\Our_Project\\DAL\\obj\\",
+        "outputPath": "D:\\visual\\acad\\MyRepository\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -399,8 +403,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\visual\\Our_Project\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\visual\\Our_Project\\Domain\\Domain.csproj"
+              "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj"
               }
             }
           }
@@ -422,6 +426,10 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.7, )"
@@ -737,14 +745,14 @@
         }
       }
     },
-    "D:\\visual\\Our_Project\\Domain\\Domain.csproj": {
+    "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual\\Our_Project\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\visual\\Our_Project\\Domain\\Domain.csproj",
+        "projectPath": "D:\\visual\\acad\\MyRepository\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Sharlatan\\.nuget\\packages\\",
-        "outputPath": "D:\\visual\\Our_Project\\Domain\\obj\\",
+        "outputPath": "D:\\visual\\acad\\MyRepository\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -785,6 +793,10 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -1096,14 +1108,14 @@
         }
       }
     },
-    "D:\\visual\\Our_Project\\Our_Project\\Our_Project.csproj": {
+    "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual\\Our_Project\\Our_Project\\Our_Project.csproj",
+        "projectUniqueName": "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.csproj",
         "projectName": "Our_Project",
-        "projectPath": "D:\\visual\\Our_Project\\Our_Project\\Our_Project.csproj",
+        "projectPath": "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.csproj",
         "packagesPath": "C:\\Users\\Sharlatan\\.nuget\\packages\\",
-        "outputPath": "D:\\visual\\Our_Project\\Our_Project\\obj\\",
+        "outputPath": "D:\\visual\\acad\\MyRepository\\Our_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1125,8 +1137,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\visual\\Our_Project\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\visual\\Our_Project\\BLL\\BLL.csproj"
+              "D:\\visual\\acad\\MyRepository\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\visual\\acad\\MyRepository\\BLL\\BLL.csproj"
               }
             }
           }
@@ -1148,6 +1160,14 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.5, )"

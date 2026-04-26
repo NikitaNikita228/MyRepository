@@ -1,4 +1,6 @@
 ﻿using BLL.Service;
+using Domain.Models;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Our_Project.Attributes;
 using System.Threading.Tasks;
@@ -10,10 +12,12 @@ namespace Our_Project.Controllers
     public class BlockController : ControllerBase
     {
         private readonly BlockService _blockService;
+        private readonly IValidator<CreateBlockRequest> _validator;
 
-        public BlockController(BlockService blockService)
+        public BlockController(BlockService blockService, IValidator<CreateBlockRequest> validator)
         {
             _blockService = blockService;
+            _validator = validator;
         }
 
         [HttpPost("hash")]
@@ -26,11 +30,19 @@ namespace Our_Project.Controllers
 
         [ApiKey]
         [HttpPost("block")]
-        public async Task<IActionResult> AddBlock([FromBody] string text)
+        public async Task<IActionResult> AddBlock([FromBody] CreateBlockRequest request)
         {
-            if (string.IsNullOrWhiteSpace(text)) return BadRequest("Text is empty");
-            var block = await _blockService.AddBlockAsync(text);
+            var validationResult = await _validator.ValidateAsync(request);
+
+            if (!validationResult.IsValid)
+            {
+                return BadRequest(validationResult.Errors);
+            }
+
+            var block = await _blockService.AddBlockAsync(request.DataText);
+
             if (block == null) return BadRequest("Failed to add block");
+
             return Ok(block);
         }
 
