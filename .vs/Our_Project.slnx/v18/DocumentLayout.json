@@ -1,45 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\visual\\Our_Project\\",
+  "WorkspaceRootPath": "D:\\visual\\acad\\MyRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\our_project\\our_project\\our_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\our_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\our_project\\our_project\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\our_project\\our_project\\controllers\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\acad\\myrepository\\our_project\\controllers\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\controllers\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\our_project\\dal\\repository\\blockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\blockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\visual\\our_project\\bll\\service\\blockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\service\\blockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\our_project\\our_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\acad\\myrepository\\our_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\our_project\\our_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\visual\\acad\\myrepository\\bll\\validators\\createblockrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\validators\\createblockrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\visual\\acad\\myrepository\\domain\\models\\createblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\createblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\acad\\myrepository\\our_project\\our_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\our_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\acad\\myrepository\\our_project\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\acad\\myrepository\\dal\\repository\\blockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\blockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\visual\\acad\\myrepository\\bll\\service\\blockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\service\\blockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|d:\\visual\\acad\\myrepository\\our_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2DDBC6B9-FE2E-B648-31AB-6F3E35155F9A}|Our_Project\\Our_Project.csproj|solutionrelative:our_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\our_project\\dal\\context\\blockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\acad\\myrepository\\dal\\context\\blockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\context\\blockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\visual\\our_project\\domain\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\visual\\acad\\myrepository\\domain\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\our_project\\dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\visual\\acad\\myrepository\\dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,41 +58,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CreateBlockRequestValidator.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\BLL\\Validators\\CreateBlockRequestValidator.cs",
+              "RelativeDocumentMoniker": "BLL\\Validators\\CreateBlockRequestValidator.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\BLL\\Validators\\CreateBlockRequestValidator.cs",
+              "RelativeToolTip": "BLL\\Validators\\CreateBlockRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:19:45.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBlockRequest.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Domain\\Models\\CreateBlockRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CreateBlockRequest.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Domain\\Models\\CreateBlockRequest.cs",
+              "RelativeToolTip": "Domain\\Models\\CreateBlockRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:19:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Our_Project.http",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Our_Project\\Our_Project.http",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.http",
               "RelativeDocumentMoniker": "Our_Project\\Our_Project.http",
-              "ToolTip": "D:\\visual\\Our_Project\\Our_Project\\Our_Project.http",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Our_Project\\Our_Project.http",
               "RelativeToolTip": "Our_Project\\Our_Project.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-04-24T20:57:03.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiKeyAttribute.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Our_Project\\Attributes\\ApiKeyAttribute.cs",
-              "RelativeDocumentMoniker": "Our_Project\\Attributes\\ApiKeyAttribute.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\Our_Project\\Attributes\\ApiKeyAttribute.cs",
-              "RelativeToolTip": "Our_Project\\Attributes\\ApiKeyAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T20:45:25.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Our_Project\\appsettings.json",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Our_Project\\appsettings.json",
               "RelativeDocumentMoniker": "Our_Project\\appsettings.json",
-              "ToolTip": "D:\\visual\\Our_Project\\Our_Project\\appsettings.json",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Our_Project\\appsettings.json",
               "RelativeToolTip": "Our_Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -93,37 +114,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Our_Project\\Program.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Our_Project\\Program.cs",
               "RelativeDocumentMoniker": "Our_Project\\Program.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\Our_Project\\Program.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Our_Project\\Program.cs",
               "RelativeToolTip": "Our_Project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T20:25:44.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BlockController.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Our_Project\\Controllers\\BlockController.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Our_Project\\Controllers\\BlockController.cs",
               "RelativeDocumentMoniker": "Our_Project\\Controllers\\BlockController.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\Our_Project\\Controllers\\BlockController.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Our_Project\\Controllers\\BlockController.cs",
               "RelativeToolTip": "Our_Project\\Controllers\\BlockController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T20:24:56.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "ApiKeyAttribute.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Our_Project\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "Our_Project\\Attributes\\ApiKeyAttribute.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Our_Project\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeToolTip": "Our_Project\\Attributes\\ApiKeyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:45:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BlockService.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\BLL\\Service\\BlockService.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\BLL\\Service\\BlockService.cs",
               "RelativeDocumentMoniker": "BLL\\Service\\BlockService.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\BLL\\Service\\BlockService.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\BLL\\Service\\BlockService.cs",
               "RelativeToolTip": "BLL\\Service\\BlockService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BlockRepository.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\DAL\\Repository\\BlockRepository.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\DAL\\Repository\\BlockRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\BlockRepository.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\DAL\\Repository\\BlockRepository.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\DAL\\Repository\\BlockRepository.cs",
               "RelativeToolTip": "DAL\\Repository\\BlockRepository.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\DAL\\Repository\\IRepository.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\DAL\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\DAL\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\DAL\\Repository\\IRepository.cs",
               "RelativeToolTip": "DAL\\Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,24 +192,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BlockContext.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\DAL\\Context\\BlockContext.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\DAL\\Context\\BlockContext.cs",
               "RelativeDocumentMoniker": "DAL\\Context\\BlockContext.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\DAL\\Context\\BlockContext.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\DAL\\Context\\BlockContext.cs",
               "RelativeToolTip": "DAL\\Context\\BlockContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T20:20:32.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Block.cs",
-              "DocumentMoniker": "D:\\visual\\Our_Project\\Domain\\Models\\Block.cs",
+              "DocumentMoniker": "D:\\visual\\acad\\MyRepository\\Domain\\Models\\Block.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Block.cs",
-              "ToolTip": "D:\\visual\\Our_Project\\Domain\\Models\\Block.cs",
+              "ToolTip": "D:\\visual\\acad\\MyRepository\\Domain\\Models\\Block.cs",
               "RelativeToolTip": "Domain\\Models\\Block.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
